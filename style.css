@@ -1,0 +1,77 @@
+.first-button{background-color: black;
+color:white;
+margin-left:15px;
+padding:10px;
+
+width:100%;
+text-align:center;
+border-radius:5px;
+font-size:30px;
+border:3px solid dimgray;
+
+display:inline-block;}
+.second-button{padding:25px 25px;
+background-color: red;
+color:white;
+margin:20px;
+}
+.second-button:hover{background-color: black;
+color:red;}
+.second{color:orange;
+}
+body{font-family:'poppins',sans-serif;}
+p{margin-bottom:40px;}
+h1{font-size:40px;
+margin-top: 50px;}
+#third{text-decoration:none;
+    background-color: rgb(197, 72, 50);
+color:white;
+padding:10px 20px;
+border-radius: 10px;}
+.forth{display:flex;
+    }
+    .fiveth img{width:80%;
+    margin-right:10%;}
+    .sixth{width:50%;
+    margin:5%;}
+    .nine{width:50%; 
+        margin-left:20px;}
+section{display:flex;}
+#ten{text-decoration: none;
+    background-color: tomato;
+    color:white;
+ padding:10px 15px;
+ border-radius:10px;}
+ #eleven{font-size:25px;
+        text-align:center;}
+   #twelve{text-align:center;} 
+   .thirteen{background-image: url(images/shapes/Frame\ 59.jpg);
+background-repeat: no-repeat;}  
+.same-tag{width:280px;text-align:center;
+    text-align:justify;
+margin:40px;
+box-sizing:border-box;
+box-shadow:10px -10px 10px brown;
+height:450px;
+border-radius: 10px;
+
+}
+.para-tag{padding:10px;
+text-align:justify;}
+
+.another-id{display:flex;}
+.img-tag{width:100%;
+border-radius: 8px;
+
+
+}
+footer{text-align:center;
+width:100%;
+    background-color: black;
+color:white;
+height:200px;}
+footer .span{color:orange;}
+
+
+
+
